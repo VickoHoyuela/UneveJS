@@ -12,10 +12,10 @@
 
 # Cursos Udemy
 # JavaScript Moderno Guía Definitiva Construye +20 Proyectos
-[Curso_js](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
+[Curso Javascript](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 
 # Docker - Guía práctica de uso para desarrolladores
-[Curso_docker](https://www.udemy.com/course/docker-guia-practica/)
+[Curso Docker](https://www.udemy.com/course/docker-guia-practica/)
 
 # Node: De cero a experto
-[Curso_node](https://www.udemy.com/course/node-de-cero-a-experto/)
+[Curso Node](https://www.udemy.com/course/node-de-cero-a-experto/)
